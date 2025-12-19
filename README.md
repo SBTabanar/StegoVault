@@ -1,19 +1,18 @@
-<<<<<<< HEAD
 # StegoVault - Browser-Based LSB Steganography 🕵️‍♂️
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-A secure, client-side steganography tool that allows you to hide secret text messages within image files using the Least Significant Bit (LSB) encoding technique. 
+A secure, client-side steganography tool that allows you to hide secret text messages within image files using the Least Significant Bit (LSB) encoding technique.
 
 ## 🌟 Key Features
 
-*   **🔒 100% Private:** All processing is done locally in your browser using the Canvas API. Your images and messages are never sent to a server.
-*   **🖼️ LSB Encoding:** Uses the Least Significant Bit method to hide data, making the changes to the image invisible to the human eye.
-*   **📂 Multiple Formats:** Supports PNG and JPG files.
-*   **⚡ Instant Reveal:** Quickly scan and decode messages from StegoVault-encoded images.
-*   **📱 Responsive Design:** Modern, sleek UI that works perfectly on desktop and mobile browsers.
+- **🔒 100% Private:** All processing is done locally in your browser using the Canvas API. Your images and messages are never sent to a server.
+- **🖼️ LSB Encoding:** Uses the Least Significant Bit method to hide data, making the changes to the image invisible to the human eye.
+- **📂 Multiple Formats:** Supports PNG and JPG files.
+- **⚡ Instant Reveal:** Quickly scan and decode messages from StegoVault-encoded images.
+- **📱 Responsive Design:** Modern, sleek UI that works perfectly on desktop and mobile browsers.
 
 ## 🛠️ How it Works
 
@@ -47,9 +46,9 @@ A secure, client-side steganography tool that allows you to hide secret text mes
 ## 🧑‍💻 Author
 
 **Sergei Benjamin Tabanar**
-*BS IT Student | Security Enthusiast*
+_BS IT Student | Security Enthusiast_
 [Portfolio](https://sergeibenjamin.com)
-=======
+
 # Professional Cybersecurity & Development Portfolio 🚀
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -60,6 +59,7 @@ A secure, client-side steganography tool that allows you to hide secret text mes
 A high-performance, visually stunning portfolio showcasing expertise in **Network & Information Security**, **Penetration Testing**, and **Full-stack Development**.
 
 ## 🌐 Live Demo
+
 [sergeibenjamin.com](https://sergeibenjamin.com)
 
 ## ✨ Key Features
@@ -105,9 +105,9 @@ A high-performance, visually stunning portfolio showcasing expertise in **Networ
 ## 🧑‍💻 About the Author
 
 **Sergei Benjamin Tabanar**
-*BS IT Student | Major in Network & Information Security*
+_BS IT Student | Major in Network & Information Security_
 Specializing in bridging the gap between robust security infrastructure and modern user experiences.
 
 ---
-*Built with ❤️ and a lot of ☕*
->>>>>>> 4d5c1381aef7e7c4c6154aa09928489084c56b59
+
+_Built with ❤️ and a lot of ☕_
